@@ -2,6 +2,8 @@
 # _*_ coding=utf-8 _*_
 #Created by ZZZWorkShop
 
+#格式化字符串打印
+
 department1 = 'Security'
 department2 = 'Python'
 depart1_m = 'cq_bomb'
